@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avrodip Das</h1>
 <h3 align="center">A passionate web developer and a tech enthusiast</h3>
 
-- 🔭 I’m currently working on **Mern Stack Project**
+- 🔭 I’m currently working on **Mern Stack Project And Sprinboot Projects**
 
 - 🌱 I’m currently learning Web3 and MERN Stack **Web3,MERN Stack**
 
