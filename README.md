@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **devavrodip@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1VwWvdFmzocTpUENmE0FTjC0scgrqMw20/view?usp=sharing](https://drive.google.com/file/d/1VwWvdFmzocTpUENmE0FTjC0scgrqMw20/view?usp=sharing](https://drive.google.com/file/d/1jpZmZKka4U_ut8JVO5PZnQ5Ih_okrD40/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jpZmZKka4U_ut8JVO5PZnQ5Ih_okrD40/view?usp=sharing]
 
 - ⚡ Fun fact **"Developers like me prove that code can be cool and fun!" 😎💻**
 
