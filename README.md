@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **AHA Solar Technology Ltd.** as a Software Developer  
 - 👨‍💻 My current work includes full-stack development using **React.js, Node.js, Express.js, SQL, and MongoDB**
-- 🌱 I’m learning **Web3** technologies and deepening my MERN Stack expertise
+- 🌱 I’m learning **SpringBoot** technologies and deepening my MERN Stack expertise
 - 👯 I’m looking to collaborate on **Hackathons and Open Source Projects**
 - 💬 Ask me about **Full Stack Development, API Design, SQL Optimization, and Blockchain**
 - 📫 Reach me at **devavrodip@gmail.com**
